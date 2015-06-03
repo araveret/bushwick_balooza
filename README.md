@@ -1,2 +1,2 @@
 # bushwick_balooza
-# building the website for a music festival
+website for a music festival
